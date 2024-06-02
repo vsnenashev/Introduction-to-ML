@@ -8,3 +8,9 @@ This project utilizes linear regression models to predict the final grades of st
 
 ## Dataset Description
 The dataset includes a comprehensive set of factors that describe each student. There is data on 395 students from two Portuguese schools during the 2005–2006 academic year in the dataset. 
+
+## Dependencies
+- pandas
+- seaborn
+- numpy
+- sklearn
