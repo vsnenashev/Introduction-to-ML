@@ -15,3 +15,5 @@ covers sections on Perceptron and Multilayer Perceptron.
 The `projects/` directory contains project files (along with the subsequent data tables):
 - `Project_1_student_grade_prediction`: Student Grade Prediction
 - `Project_2_flight_satisfaction_prediction`: Flight Satisfaction Prediction
+
+Visit projects directories to learn more. 
