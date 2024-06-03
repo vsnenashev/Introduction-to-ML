@@ -14,6 +14,9 @@ covers sections on Perceptron and Multilayer Perceptron.
 demonstrates data splitting, cross-validation, error analysis for quality assessment, and bootstrap for confidence interval estimation.
 - `6_Model Parameter Tuning`
 explores techniques including grid search, bisection method, gradient descent, and simulated annealing for parameter tuning and model optimization.
+- `7_Regression problem. Linear regression`
+covers linear regression with two parameters, essential linear algebra concepts, and extends to multiple linear regression.
+
 
 
 
