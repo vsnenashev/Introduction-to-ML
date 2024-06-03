@@ -10,6 +10,9 @@ manipulations with dataframes via Pandas and data visualisation via seaborn
 covers encoding categorical factors, target encoding, standardization, and correlation analysis
 - `4_Selecting and creating a model.ipynb`
 covers sections on Perceptron and Multilayer Perceptron.
+- `5_Quality_assesment.ipynb` 
+demonstrates data splitting, cross-validation, error analysis for quality assessment, and bootstrap for confidence interval estimation.
+
 
 ## Projects 📊
 The `projects` directories contain Jupyter Notebooks with the Projects code as well as the subsequent data tables:
