@@ -16,7 +16,8 @@ demonstrates data splitting, cross-validation, error analysis for quality assess
 explores techniques including grid search, bisection method, gradient descent, and simulated annealing for parameter tuning and model optimization.
 - `7_Regression problem. Linear regression.ipynb`
 covers linear regression with two parameters, essential linear algebra concepts, and extends to multiple linear regression.
-
+- `8_Classification problem. Logistic regression.ipynb`
+- `9_Classification problem. Decision tree.ipynb`
 
 
 
