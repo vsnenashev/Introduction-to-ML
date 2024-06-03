@@ -12,9 +12,9 @@ covers encoding categorical factors, target encoding, standardization, and corre
 covers sections on Perceptron and Multilayer Perceptron.
 - `5_Quality_assesment.ipynb` 
 demonstrates data splitting, cross-validation, error analysis for quality assessment, and bootstrap for confidence interval estimation.
-- `6_Model Parameter Tuning`
+- `6_Model Parameter Tuning.ipynb`
 explores techniques including grid search, bisection method, gradient descent, and simulated annealing for parameter tuning and model optimization.
-- `7_Regression problem. Linear regression`
+- `7_Regression problem. Linear regression.ipynb`
 covers linear regression with two parameters, essential linear algebra concepts, and extends to multiple linear regression.
 
 
