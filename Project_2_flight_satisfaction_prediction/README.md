@@ -1,4 +1,4 @@
-✈ # Flight Satisfaction Prediction
+# ✈ Flight Satisfaction Prediction
 
 This project aims to predict passenger satisfaction with airline services and flights based on post-flight surveys conducted by the airline company. In this project it is achieved using logistic regression model, as the task is a classic binary classification problem.
 
